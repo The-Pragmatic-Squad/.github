@@ -12,7 +12,7 @@ The project is divided into 3 main modules:
 
 - **Core**: This module contains the core business logic of the project, it is responsible for processing transactions and handling the various operations that are required to be performed on accounts.
 
-- **Gateway**: This module contains the gateway logic of the project, it is responsible for handling the communication between the Postman calls and the core module. 
+- **Gateway**: This module contains the gateway logic of the project, it is responsible for handling the communication between the Postman calls for the gateway and the core module. 
 
 - **Web**: This module contains the web interface of the project, it is responsible for providing a user-friendly interface for administrators to manage accounts and view transaction histories.
 
