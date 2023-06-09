@@ -1,16 +1,6 @@
-# The Pragmatic Squad
-
 ## About Us
 
 This is Organization for the Pragmatic Squad, a group of Software Engineering Interns at [Fawry](https://www.fawry.com/) who are working on a project to build a web application that simulates the Fawry system.
-
-## Team Members
-
-- [Muhammad Saad](https://linkedin.com/in/muhammad-saad-01)
-- [Khaled Badr](https://www.linkedin.com/in/khaled-badr-b66b9020a)
-- [Ahmed Kandel](https://www.linkedin.com/in/ahmed-kandel-014214184)
-- [Naglaa Essam](https://www.linkedin.com/in/naglaa-essam-627213171)
-- [Mohamed Yasser](https://www.linkedin.com/in/mohamed-yasser-a9346a21b)
 
 ## Project Description
 
@@ -25,3 +15,11 @@ The project is divided into 3 main modules:
 - **Gateway**: This module contains the gateway logic of the project, it is responsible for handling the communication between the Postman calls and the core module. 
 
 - **Web**: This module contains the web interface of the project, it is responsible for providing a user-friendly interface for administrators to manage accounts and view transaction histories.
+
+## Team Members
+
+- [Muhammad Saad](https://linkedin.com/in/muhammad-saad-01)
+- [Khaled Badr](https://www.linkedin.com/in/khaled-badr-b66b9020a)
+- [Ahmed Kandel](https://www.linkedin.com/in/ahmed-kandel-014214184)
+- [Naglaa Essam](https://www.linkedin.com/in/naglaa-essam-627213171)
+- [Mohamed Yasser](https://www.linkedin.com/in/mohamed-yasser-a9346a21b)
